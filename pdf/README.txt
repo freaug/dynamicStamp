@@ -11,5 +11,4 @@ Win XP: \Documents and Settings\[username]\ApplicationData\Adobe\Acrobat\11.0[or
 
 MacOS: /Users/[username]/Library/Application Support/Adobe/Acrobat/11.0[or version number]/Stamps
 
-The javascript file is included for posterity but not necessary for the stamp to work. 
 
